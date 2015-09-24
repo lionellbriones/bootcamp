@@ -1,0 +1,413 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context="com.example.nonel.boardroom.SlamBookActivity">
+
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo1" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name1" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo2" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name2" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo3" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name3" />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo4" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name4" />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo5" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name5" />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo6" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name6" />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo7" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name7" />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo8" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name8" />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo9" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name9" />
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo10" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name10"/>
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo11" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name11"/>
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo12" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name12"/>
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo13" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name13"/>
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo14" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name14"/>
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo15" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name15"/>
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo16" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name16"/>
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo17" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name17"/>
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo18" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name18"/>
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo19" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name19"/>
+    </LinearLayout>
+    <LinearLayout
+        style="@style/slamBookList"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:layout_marginRight="5dp"
+            android:src="@drawable/slamphoto"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/iv_photo20" />
+
+        <TextView
+            android:textSize="20sp"
+            android:text="Slam Book Name 20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_name20"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,196 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/ll_meal1"
+        style="@style/deliveryGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/iv_meal1"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/slamphoto"/>
+        <TextView
+            style="@style/deliveryListText"
+            android:id="@+id/tv_meal1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bulalo 1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_meal2"
+        style="@style/deliveryGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/iv_meal2"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/slamphoto"/>
+        <TextView
+            style="@style/deliveryListText"
+            android:id="@+id/tv_meal2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bulalo 2"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_meal3"
+        style="@style/deliveryGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/iv_meal3"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/slamphoto"/>
+        <TextView
+            style="@style/deliveryListText"
+            android:id="@+id/tv_meal3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bulalo 1"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_meal4"
+        style="@style/deliveryGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/iv_meal4"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/slamphoto"/>
+        <TextView
+            style="@style/deliveryListText"
+            android:id="@+id/tv_meal4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bulalo 4"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_meal5"
+        style="@style/deliveryGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/iv_meal5"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/slamphoto"/>
+        <TextView
+            style="@style/deliveryListText"
+            android:id="@+id/tv_meal5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bulalo 5"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_meal6"
+        style="@style/deliveryGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/iv_meal6"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/slamphoto"/>
+        <TextView
+            style="@style/deliveryListText"
+            android:id="@+id/tv_meal6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bulalo 6"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_meal7"
+        style="@style/deliveryGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/iv_meal7"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/slamphoto"/>
+        <TextView
+            style="@style/deliveryListText"
+            android:id="@+id/tv_meal7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bulalo 7"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_meal8"
+        style="@style/deliveryGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/iv_meal8"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/slamphoto"/>
+        <TextView
+            style="@style/deliveryListText"
+            android:id="@+id/tv_meal8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bulalo 8"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_meal9"
+        style="@style/deliveryGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/iv_meal9"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/slamphoto"/>
+        <TextView
+            style="@style/deliveryListText"
+            android:id="@+id/tv_meal9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bulalo 9"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_meal10"
+        style="@style/deliveryGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/iv_meal10"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/slamphoto"/>
+        <TextView
+            style="@style/deliveryListText"
+            android:id="@+id/tv_meal10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bulalo 10"/>
+    </LinearLayout>
+</LinearLayout>
